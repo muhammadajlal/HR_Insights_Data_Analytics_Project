@@ -4,7 +4,7 @@ The problem statement of this project was to discover the patterns of employee b
 
 The key steps involved in this project: 
 - Defining the problem statement (tracking employee preferences)
-- Data Loading (via MS Excel)
+- Data Loading/Gathering (via MS Excel)
 - Data Cleaning and ETL (Using Power BI Power Query)
 - Creating Metrics (Using DAX)
 - Dashboarding (Using DAX)
